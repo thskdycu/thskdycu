@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @thskdycu
+-👋 Hi, I’m ilyas lazir
+- im from Morocco 🇲🇦
 - 👀 I’m interested in C++ and web developpment.
 - 🌱 I’m currently learning C++ libraries.
 - 📫 im 13 years old.
