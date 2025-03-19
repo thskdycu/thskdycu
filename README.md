@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thskdycu
 - 👀 I’m interested in C++ and web developpment.
 - 🌱 I’m currently learning C++ libraries.
-- 📫 im 11 years old.
+- 📫 im 13 years old.
 - ⚡ Fun fact: C++ is pretty easy tbh.
 
 <!---
